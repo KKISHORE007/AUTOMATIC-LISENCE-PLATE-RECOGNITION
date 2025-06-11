@@ -1,4 +1,4 @@
-# AUTOMATIC-LISENCE-PLATE-RECOGNITION
+# AUTOMATIC-LICENCE-PLATE-RECOGNITION
 Overview
 This project is an Automatic License Plate Recognition (ALPR) system that detects and recognizes license plates from images or video streams. The system uses computer vision and machine learning techniques to:
 
